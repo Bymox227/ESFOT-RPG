@@ -1,4 +1,4 @@
-```markdown
+
 ## ESFOT RPG: La Batalla de los Reinos
 
 Aplicación de consola desarrollada en Java como tarea integradora de Programación Orientada a Objetos (POO). El sistema simula un juego de rol (RPG) por turnos que permite registrar distintos tipos de héroes, consultar sus estadísticas, gestionar sus habilidades especiales mediante polimorfismo y enfrentarlos en combates dinámicos.
@@ -117,3 +117,4 @@ classDiagram
     Guerrero <|-- Paladin
     GestorJuego o-- Personaje : administra
     Main ..> GestorJuego : utiliza
+```
